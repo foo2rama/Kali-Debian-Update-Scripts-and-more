@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# Phil Maurer 9.19.2020 V 1.0
+# Phil Maurer 9.19.2020 V 1.1
 # phil@m4urer.com
 # This is a script to update kali Linux, it can be used on other debian based distro's, please read comments.
 
@@ -76,7 +76,7 @@ apt autoclean -y
 
 
 echo "  " 
-echo -e "\e[38;5;82mPlease check  above for update notes\e[0m"
+echo -e "\e[38;5;82mPlease scan above for update notes\e[0m"
 
 
 

@@ -1,6 +1,6 @@
 #!/bin/bash
 #
-# Simplescript to pick names from a list.
+# A simple script to pick names from a list.
 # Phil Maurer
 # phil@m4urer.com
 # v 1.0 - 7.13.2021

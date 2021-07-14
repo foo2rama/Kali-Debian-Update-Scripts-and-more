@@ -1,12 +1,14 @@
 #!/bin/bash
 #
-# A simple script to pick names from a list.
+# A simple script to pick names from a list. Or a line from a 
+# file depending on how you look at it.
+#
 # Phil Maurer
 # phil@m4urer.com
 # v 1.0 - 7.13.2021
 #
 # Instructions: The names.txt file needs to have one name on each
-#               line.  Of course you can put any data if you want
+#               line.  Of course you can use any data if you want.
 #
 # note : You will have to change the absolute pathing depending on
 #        where you place it.  If you decide to run it via alias you

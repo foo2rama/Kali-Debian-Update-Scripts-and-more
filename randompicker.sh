@@ -5,7 +5,7 @@
 #
 # Phil Maurer
 # phil@m4urer.com
-# v 1.0 - 7.13.2021
+# v 1.1 - 7.15.2021
 #
 # Instructions: The names.txt file needs to have one name on each
 #               line.  Of course you can use any data if you want.

@@ -15,11 +15,10 @@
 #        really need the absolute path to the name file.
 #        ***(I highly recommend running it as an alias)***
 
-clear
-echo " "
-echo " "
-echo -e "and the winner is ...\e[92m"
-echo " "
-shuf -n 1 /home/sysadmin/Desktop/picker/names.txt
-echo -e " \033[0m"
-echo " "
+NAMES=$HOME/Documents/picker/names.txt
+tput clear
+echo -e "\n\nAnd the winner is ...\n"
+tput setaf 2
+shuf -n 1 "$NAMES"
+tput setaf 0
+echo

@@ -1,9 +1,0 @@
-#!/bin/bash
-
-#this is comment it is not seen
-#echo "can you see me?"
-echo "look at me"
-
-neofetch > neo1.txt
-
-vnstat > /home/phil/temp5.txt

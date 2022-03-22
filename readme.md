@@ -2,7 +2,7 @@ This is a collection of scripts that I use on a  daily basis.
 
 Please feel free to use and distribute, as long as you leave attribution in the comments
 
-**Scripts**
+# **Scripts** #
 
 *RaspberryPiTempScript* - A simple script with color coding to to display the temp of your raspberry PI.  It also contains a version that can be used in logging.  This displays in both C and F.
 

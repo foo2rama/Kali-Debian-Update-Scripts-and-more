@@ -1,3 +1,6 @@
+# **Welcome to my Rasberry Pi and other Debian based scripts** #
+
+
 This is a collection of scripts that I use on a daily basis. Some are Kali and Parrot specific, others are highly specific to Raspberry Pi's and the temperature variables on them.  All scripts work in a Debian based environment, other distros and your results will vary.  Please note any of the update scripts will fail in anything other then a debian based distribution.
 
 Nothing truly special and some are very very simple, simple to the point of why are you even sharing this.  I do this as in addition to my day job as a Compliance Auditor, I also teach Cybersecurity and I want my students to be able to see what can be easily automated.

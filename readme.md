@@ -27,3 +27,6 @@ Please feel free to use and distribute, as long as you leave attribution in the 
 *resetdhcp* - A quick script to reset dhcp then reports back your local and public IP's
 
 *randompicker.sh* - Script to randomly pick a name from a list of names.  Super usefull if you teach.
+
+*timer* - A simple script written by students to select a time in hours, minutes, seconds, then countdown to completion.
+
